@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+![KSP Logo](https://kerbalspaceprogram.com/en/wp-content/uploads/2015/03/conqueringSpace_bannerWeb.jpg)
+## Kerbal Space Program OST
 
-You can use the [editor on GitHub](https://github.com/4669842/KSP-WAV-Extract/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thanks to [DerPopo](https://github.com/DerPopo/UABE) and his awesome unity asset extractor, the ability to access the original uncompressed versions of the games awesome music and soundeffects was no longer a issue.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+While there are a few mp3 soundtracks out there where people have constructed their own version of a "OST", this is fine, but some of us want the WAV files that give us the true spacious experience kerbal gives everyone.
 
-### Markdown
+### Download the SoundTrack
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Kerbal Space Program 1.3.1 was used, if more music or soundeffects are added I will update the repoisitory, feel free to download from [here](https://github.com/4669842/KSP-WAV-Extract/releases) 
+or
+[here](https://cdn.rawgit.com/4669842/KSP-WAV-Extract/archive/KSP_Soundtrack.zip)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/4669842/KSP-WAV-Extract/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Soundtrack Contents
+ ###### Music (SoundTrack)
+  * Arcadia
+  * Bathed in the Light
+  * Brittle Rille
+  * Dreamy Flashback
+  * Frost Waltz 
+  * Frost Waltz (Alternative)
+  * Frozen Star
+  * Groove Grove
+  * Impact Lento
+  * VAB_SPH_SneakyAdventure
+  * Administration Stratejazz
+  * AstroComplexAmbience
+  * AstronautComplexAmbience
+  * Construction01
+  * Construction02
+  * Construction03
+  * Credits
+  * MainTheme
+  * MenuAmbience
+  * MissionControlMusic
+  * ResearchAndDevelopment
+  * SPHAmbience
+  * SpaceAmbience01
+  * SpaceAmbience02
+  * SpaceAmbience03
+  * SpaceAmbience04
+  * SpaceCenterAmbienceDay
+  * SpaceCenterAmbienceNight
+  * TrackingStation
+  * Wizardtorium
+  * editorLoop01
+###### Sound Effects
+  * Explosions
