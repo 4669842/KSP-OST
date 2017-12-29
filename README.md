@@ -7,9 +7,9 @@ While on the web is hosted a few mp3 soundtracks constructed by other fans who w
 
 ### Download the Soundtrack
 
-Kerbal Space Program 1.3.1 was used, if more music or sound effects are added I will update the repository, feel free to download from [here](https://github.com/4669842/KSP-WAV-Extract/releases) 
+Kerbal Space Program 1.3.1 was used, if more music or sound effects are added I will update the repository, feel free to download from [here](https://github.com/4669842/KSP-OST/releases) 
 or
-[here](https://cdn.rawgit.com/4669842/KSP-WAV-Extract/archive/KSP_Soundtrack.zip)
+[here](https://cdn.rawgit.com/4669842/KSP-OST/archive/KSP_Soundtrack.zip)
 
 ### Soundtrack Contents
  # [Music (SoundTrack)](https://github.com/4669842/KSP-OST/tree/master/Music)
