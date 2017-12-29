@@ -11,6 +11,10 @@ Kerbal Space Program 1.3.1 was used, if more music or sound effects are added I 
 or
 [here](https://cdn.rawgit.com/4669842/KSP-OST/archive/KSP_Soundtrack.zip)
 
+While the Offical soundtrack in MP3 is convenient, it's better to listen to the amazing work of Kevin MacLeod in uncompressed WAV format, the same format you hear when playing the game in all its glory.
+
+These music files are
+
 ### Soundtrack Contents
  # [Music (SoundTrack)](https://github.com/4669842/KSP-OST/tree/master/Music)
   * [Arcadia](https://cdn.rawgit.com/4669842/KSP-OST/cfdae783/Music/Arcadia-sharedassets0.assets-1180.wav)
@@ -46,3 +50,6 @@ or
   * [editorLoop01](https://cdn.rawgit.com/4669842/KSP-OST/cfdae783/Music/editorLoop01-sharedassets0.assets-1241.wav)
 # Sound Effects
   * Explosions
+  
+  
+  "This work is licensed under a Creative Commons License. " - Kevin Macleod
