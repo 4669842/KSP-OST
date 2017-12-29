@@ -12,9 +12,6 @@ or
 [here](https://cdn.rawgit.com/4669842/KSP-OST/archive/KSP_Soundtrack.zip)
 
 While the Offical soundtrack in MP3 is convenient, it's better to listen to the amazing work of Kevin MacLeod in uncompressed WAV format, the same format you hear when playing the game in all its glory.
-
-These music files are
-
 ### Soundtrack Contents
  # [Music (SoundTrack)](https://github.com/4669842/KSP-OST/tree/master/Music)
   * [Arcadia](https://cdn.rawgit.com/4669842/KSP-OST/cfdae783/Music/Arcadia-sharedassets0.assets-1180.wav)
