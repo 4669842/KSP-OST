@@ -1,9 +1,9 @@
 ![KSP Logo](https://kerbalspaceprogram.com/en/wp-content/uploads/2015/03/conqueringSpace_bannerWeb.jpg)
 ## Kerbal Space Program OST
 
-Thanks to [DerPopo](https://github.com/DerPopo/UABE) and his awesome unity asset extractor, the ability to access the original uncompressed versions of the games awesome music and sound effects was no longer a issue.
+Thanks to [DerPopo](https://github.com/DerPopo/UABE) and his awesome unity asset extractor, the ability to access the original uncompressed versions of the games awesome music and sound effects is no longer an issue.
 
-While on the web is hosted a few mp3 soundtracks constructed by other fans who want to have a OST of sorts, this is fine, but some of us want the WAV files that give us the true spacious experience kerbal gives everyone that MP3 files just cant provide.
+Kevin MacLeod has published a official soundtrack in MP3 format as both royality free and free to download over at [http://incompetech.com/](http://incompetech.com/music/royalty-free/most/kerbalspaceprogram.php) Direct link to the MP3 Official version is [here](http://incompetech.com/music/royalty-free/most/kspost.zip)
 
 ### Download the Soundtrack
 
